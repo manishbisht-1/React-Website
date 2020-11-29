@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/manishbisht-1/React-Website.git/static/css/main.ddf35e70.chunk.css",
+    "main.js": "/manishbisht-1/React-Website.git/static/js/main.ca505893.chunk.js",
+    "main.js.map": "/manishbisht-1/React-Website.git/static/js/main.ca505893.chunk.js.map",
+    "runtime-main.js": "/manishbisht-1/React-Website.git/static/js/runtime-main.a6488276.js",
+    "runtime-main.js.map": "/manishbisht-1/React-Website.git/static/js/runtime-main.a6488276.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/manishbisht-1/React-Website.git/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.50856dbd.chunk.js": "/manishbisht-1/React-Website.git/static/js/2.50856dbd.chunk.js",
+    "static/js/2.50856dbd.chunk.js.map": "/manishbisht-1/React-Website.git/static/js/2.50856dbd.chunk.js.map",
+    "index.html": "/manishbisht-1/React-Website.git/index.html",
+    "precache-manifest.c62c16ec1da2a88b7a07ba757f41b9dd.js": "/manishbisht-1/React-Website.git/precache-manifest.c62c16ec1da2a88b7a07ba757f41b9dd.js",
+    "service-worker.js": "/manishbisht-1/React-Website.git/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/manishbisht-1/React-Website.git/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.ddf35e70.chunk.css.map": "/manishbisht-1/React-Website.git/static/css/main.ddf35e70.chunk.css.map",
+    "static/js/2.50856dbd.chunk.js.LICENSE.txt": "/manishbisht-1/React-Website.git/static/js/2.50856dbd.chunk.js.LICENSE.txt",
+    "static/media/Main.jpg": "/manishbisht-1/React-Website.git/static/media/Main.bf5f649b.jpg",
+    "static/media/images (1)1.jpg": "/manishbisht-1/React-Website.git/static/media/images (1)1.75610765.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6488276.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.50856dbd.chunk.js",
+    "static/css/main.ddf35e70.chunk.css",
+    "static/js/main.ca505893.chunk.js"
+  ]
+}
